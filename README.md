@@ -1,2 +1,2 @@
 # testime
-Testime kuidas toimib
+Muudan selle faili sisu ära.
